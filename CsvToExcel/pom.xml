@@ -4,6 +4,11 @@
 	<groupId>CsvToExcel</groupId>
 	<artifactId>CsvToExcel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<properties>
+  <sonar.projectKey>Gade-hub_repCat</sonar.projectKey>
+  <sonar.organization>gade-hub</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
