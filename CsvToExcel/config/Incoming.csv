@@ -1,0 +1,3 @@
+Account Number,ARN,Amount,Currency,Reason Code,Chargeback Reference Number,Claim Id.,Processing Date,Acquirer ICA,Issuer ICA,BIN,Direction,Item Type
+5555555555555555,85353391171124960654901,29.99,EUR,4837,9065870163,202878878757,01-Jul-2021,011429,012653,561259,O,CB1
+Total items  ,1258 items,,,,,,,,,,,
